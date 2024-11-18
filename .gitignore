@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+.idea/.idea.MeleeCombatSystem/.idea/.name
+.idea/.idea.MeleeCombatSystem/.idea/encodings.xml
+.idea/.idea.MeleeCombatSystem/.idea/indexLayout.xml
+.idea/.idea.MeleeCombatSystem/.idea/vcs.xml
